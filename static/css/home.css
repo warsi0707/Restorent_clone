@@ -1,0 +1,21 @@
+
+.menu{
+    margin-top: 10px;
+  
+}
+
+.card{
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: 10px;
+    border: none !important;
+}
+
+.card-img-top{
+    border-radius: 1rem !important;
+}
+
+
+.border-bottom{
+    border: 2px;
+}
